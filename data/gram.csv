@@ -1,0 +1,421 @@
+-,Achromobacter denitrificans
+-,Achromobacter xylosoxidans
+-,Acinetobacter baumannii
+-,Acinetobacter baumannii (Carbapenemase)
+-,Acinetobacter baumannii (MBL)
+-,Acinetobacter bereziniae (Carbapenemasen)
+-,Acinetobacter calcoaceticus
+-,Acinetobacter haemolyticus
+-,Acinetobacter haemolyticus (Carbapenemasen)
+-,Acinetobacter johnsonii
+-,Acinetobacter johnsonii (Carbapenemasen)
+-,Acinetobacter junii
+-,Acinetobacter junii (Carbapenemase)
+-,Acinetobacter lwoffi
+-,Acinetobacter lwoffii
+-,Acinetobacter lwoffii (Carbapenemase)
+-,Acinetobacter nosocomialis
+-,Acinetobacter pittii
+-,Acinetobacter radioresistens
+-,Acinetobacter ursingii
++,Aerococcus viridans
+-,Aeromonas caviae
+-,Aeromonas hydrophila
+-,Aeromonas media
+-,Aeromonas punctata
+-,Aeromonas salmonicida
+-,Aeromonas salmonicida (MBL)
+-,Aeromonas sobria
+-,Aeromonas sobria (Carbapenemase)
+-,Aeromonas veronii
+-,Alcaligenes faecalis
+-,Alcaligenes faecalis (Carbapenemase)
++,Arthrobacter cumminsii
+-,Bacillus altitudinis
+-,Bacillus amyloliquefaciens
+-,Bacillus cereus
+-,Bacillus circulans
+-,Bacillus clausii
+-,Bacillus coagulans
+-,Bacillus drentensis
+-,Bacillus firmus
+-,Bacillus fusiformis
+-,Bacillus horneckiae
+-,Bacillus idriensis
+-,Bacillus lentus
+-,Bacillus licheniformis
+-,Bacillus megaterium
+-,Bacillus mycoides
+-,Bacillus pumilus
+-,Bacillus simplex
+-,Bacillus siralis
+-,Bacillus sphaericus
+-,Bacillus subtilis
+-,Bacillus thermoamylovorans
+-,Bacillus xiapuensis
+-,Bacteroides fragilis
+-,Bergeyella zoohelcum
+-,Bordetella bronchiseptica
+-,Bordetella parapertussis
+-,Bordetella trematum
++,Brevibacillus spp
++,Brevibacterium luteolum
+-,Brevundimonas diminuta
+-,Brevundimonas diminuta (Carbapenemase)
+-,Brevundiomonas vesicularis
+-,Brucella melitensis
+-,Burkholderia cenocepacia
+-,Burkholderia cepacia
+-,Burkholderia cepacia (Komplex)
+-,Burkholderia gladioli
+-,Burkholderia stabilis
+-,Burkholderia vietnamiensis
+-,Buttiauxella agrestis
+-,Cedecea davisiae
+-,Cedecea lapagei
++,Cellulosimicrobium cellulans
+-,Chryseobacterium formosense
+-,Chryseobacterium gleum
+-,Chryseobacterium indologenes
+-,Chryseomonas indologenes
+-,Citrobacter amalonaticus
+-,Citrobacter amalonaticus (ESBL)
+-,Citrobacter braakii
+-,Citrobacter braakii (ESBL)
+-,Citrobacter farmeri
+-,Citrobacter farmeri (ESBL)
+-,Citrobacter freundii
+-,Citrobacter freundii (Carbapenemase)
+-,Citrobacter freundii (ESBL)
+-,Citrobacter koseri
+-,Citrobacter koseri (ESBL)
+-,Citrobacter sedlakii
+-,Citrobacter werkmanii
+-,Citrobacter werkmanii (Carbapenemase)
+-,Citrobacter werkmanii (ESBL)
+-,Citrobacter youngae
++,Clostridium perfringens
++,Clostridium tertium
+-,Comamonas sediminis
+-,Comamonas testosteroni
+-,Comamonas testosteroni (Carbapenemase)
++,Corynebacterium aurimucosum
++,Corynebacterium macginleyi
++,Corynebacterium simulans
++,Corynebacterium striatum
++,Corynebacterium suicordis
+-,Cronobacter malonaticus
+-,Cupriavidus gilardii
+-,Delftia acidovorans
++,Dermabacter hominis
++,Dermacoccus barathri
++,Dermacoccus nishinomiyaensis
++,Dietzia cinnamea
+-,Edwardsiella tarda
++,Eggerthella lenta
+-,Elizabethkingia anopheles
+-,Elizabethkingia anophelis
+-,Elizabethkingia meningoseptica
+-,Elizabethkingia meningosepticum
+-,Empedobacter brevis
+-,Enterobacter aerogenes
+-,Enterobacter aerogenes (Carbapenemasen)
+-,Enterobacter aerogenes (ESBL)
+-,Enterobacter amnigenus
+-,Enterobacter amnigenus (ESBL)
+-,Enterobacter asburiae
+-,Enterobacter asburiae (ESBL)
+-,Enterobacter cancerogenus
+-,Enterobacter cloacae
+-,Enterobacter cloacae (Carbapenemase)
+-,Enterobacter cloacae (ESBL)
+-,Enterobacter cloacae (MBL)
+-,Enterobacter gergoviae
+-,Enterobacter hormaechei
+-,Enterobacter hormaechei (Carbapenemase)
+-,Enterobacter hormaechei (ESBL)
+-,Enterobacter kobei
+-,Enterobacter kobei (ESBL)
+-,Enterobacter ludwigii
+-,Enterobacter sakazakii
++,Enterococcus avium
++,Enterococcus casseliflavus
++,Enterococcus durans
++,Enterococcus faecalis
++,Enterococcus faecalis (VRE1)
++,Enterococcus faecalis (VRE2)
++,Enterococcus faecalis ATCC 29212
++,Enterococcus faecium
++,Enterococcus faecium (VRE1)
++,Enterococcus faecium (VRE2)
++,Enterococcus faecium ATCC VAN A
++,Enterococcus gallinarium
++,Enterococcus gallinarum
++,Enterococcus hirae
++,Enterococcus mundtii
++,Enterococcus raffinosus
+-,Erwinia rhapontici
+-,Escherichia coli
+-,Escherichia coli (Carbapenemasen)
+-,Escherichia coli (EHEC)
+-,Escherichia coli (EPEC)
+-,Escherichia coli (EPEC) (ESBL)
+-,Escherichia coli (ESBL)
+-,Escherichia coli ATCC 25922
+-,Escherichia coli ATCC 35218
+-,Escherichia fergusonii
+-,Escherichia hermanii
+-,Escherichia vulneris
+-,Ewingella americana
++,Fictibacillus phosphorivorans
++,Gemella haemolysans
++,Gemella morbillorum
++,Gordonia sputi
+-,Grimontia hollisae
+-,Haemophilus influenzae
+-,Hafnia alvei
+-,Hafnia alvei (ESBL)
+-,Inquilinus limosus
+-,Klebsiella aerogenes
+-,Klebsiella aerogenes (Carbapenemase)
+-,Klebsiella aerogenes (ESBL)
+-,Klebsiella oxytoca
+-,Klebsiella oxytoca (Carbapenemase)
+-,Klebsiella oxytoca (ESBL)
+-,Klebsiella pneumoniae
+-,Klebsiella pneumoniae (Carbapenemasen)
+-,Klebsiella pneumoniae (ESBL)
+-,Klebsiella pneumoniae (MBL)
+-,Klebsiella variicola
+-,Kluyvera ascorbata
+-,Kluyvera ascorbata (Carbapenemasen)
+-,Kluyvera cryocrescens
++,Kocuria kristinae
++,Kocuria palustris
++,Kocuria rhizophila
++,Kocuria rosea
++,Kocuria varians
++,Lactobacillus casei
++,Lactobacillus fermentum
++,Lactobacillus pentosus
++,Lactobacillus rhamnosus
++,Lactobacillus salivarius
++,Lactococcus garviae
++,Lactococcus lactis
+-,Leclercia adecarboxylata
++,Leuconostoc lactis
++,Listeria monocytogenes
++,Lysinibacillus fusiformis
++,Macrococcus caseolyticus
++,Micrococcus cohnii
++,Micrococcus luteus
++,Micrococcus lylae
+-,Morganella morganii
+-,Morganella morganii (ESBL)
+-,Mycobacterium abscessus ssp. bolletii
+-,Mycobacterium abscessus ssp. massiliense
+-,Mycobacterium avium
+-,Mycobacterium celatum
+-,Mycobacterium chimaera
+-,Mycobacterium fortuitum
+-,Mycobacterium gordonae
+-,Mycobacterium intracellulare
+-,Mycobacterium kansasii
+-,Mycobacterium szulgai
+-,Myroides odoratimimus
+-,Neisseria animaloris
+-,Neisseria zoodegmatis
++,Nocardia farcinica
++,Nocardia paucivorans
+-,Obesumbacterium proteus
+-,Ochrobactrum anthropi
+-,Ochrobactrum intermedium
+-,Oligella urethralis
++,Paenibacillus durum
++,Paenibacillus glucanolyticus
++,Paenibacillus lautus
++,Paenibacillus macerans
++,Paenibacillus pabuli
++,Paenibacillus provencensis
++,Paenibacillus thiaminolyticus
+-,Pandoraea pulmonicola
+-,Pantoea agglomerans
+-,Pantoea agglomerans (ESBL)
+-,Pantoea dispersa
+-,Paracoccus yeei
+-,Pasteurella canis
+-,Pasteurella dagmatis
+-,Pasteurella multocida
+-,Pasteurella stomatis
+-,Pectobacterium carotovorum
++,Pediococcus pentosaceus
+-,Proteus hauseri
+-,Proteus mirabilis
+-,Proteus mirabilis (ESBL)
+-,Proteus penneri
+-,Proteus vulgaris
+-,Proteus vulgaris (Carbapenemase)
+-,Proteus vulgaris (ESBL)
+-,Providencia alcalifaciens
+-,Providencia rettgeri
+-,Providencia rettgeri (ESBL)
+-,Providencia stuartii
+-,Pseudocitrobacter faecalis
++,Pseudoglutamicibacter cumminsii
+-,Pseudomonas aeruginosa
+-,Pseudomonas aeruginosa (Carbapenemase)
+-,Pseudomonas aeruginosa (MBL)
+-,Pseudomonas aeruginosa ATCC 27853
+-,Pseudomonas alcaligenes
+-,Pseudomonas anguilliseptica
+-,Pseudomonas chlororaphis
+-,Pseudomonas fluorescens
+-,Pseudomonas fluorescens (MBL)
+-,Pseudomonas fragi
+-,Pseudomonas luteola
+-,Pseudomonas mendocina
+-,Pseudomonas mosselii
+-,Pseudomonas oleovorans
+-,Pseudomonas oryzihabitans
+-,Pseudomonas oryzihabitans (Carbapenemase)
+-,Pseudomonas putida
+-,Pseudomonas putida (Carbapenemase)
+-,Pseudomonas putida (MBL)
+-,Pseudomonas rhodesiae
+-,Pseudomonas straminea
+-,Pseudomonas stutzeri
+-,Pseudomonas stutzeri (MBL)
+-,Pseudomonas viridiflava
+-,Pseudomonas viridiflava (MBL)
+-,Psychrobacter phenylpyruvicus
+-,Rahnella aquati
+-,Rahnella aquatilis
+-,Ralstonia mannitolilytica
+-,Ralstonia pickettii
+-,Raoultella ornithinolytica
+-,Raoultella ornithinolytica (Carbapenemase)
+-,Raoultella ornithinolytica (ESBL)
+-,Raoultella planticola
+-,Raoultella terrigena
+-,Rheinheimera aquimaris
+-,Rhizobium radiobacter
++,Rhodococcus hoagii
+-,Roseomonas mucosa
++,Rothia dentocariosa
++,Rothia mucilaginosa
+-,Salmonella Arizonae
+-,Salmonella Bareilly
+-,Salmonella Bata
+-,Salmonella Bispebjerg
+-,Salmonella Blockley
+-,Salmonella Braenderup
+-,Salmonella Brandenburg
+-,Salmonella Choleraesuis
+-,Salmonella Emek
+-,Salmonella Enteritidis
+-,Salmonella Epalinges
+-,Salmonella Gruppe C
+-,Salmonella Hadar
+-,Salmonella Infantis
+-,Salmonella Kenya
+-,Salmonella Kintambo
+-,Salmonella Newport
+-,Salmonella Panama
+-,Salmonella Paratyphi B
+-,Salmonella Poona
+-,Salmonella Saint-Paul
+-,Salmonella Tennessee
+-,Salmonella Typhimurium
+-,Salmonella Virchow
+-,Salmonella abony
+-,Salmonella arizonae
+-,Salmonella brandenburg
+-,Salmonella bredeney
+-,Salmonella enteritidis
+-,Salmonella infantis
+-,Salmonella kentucky
+-,Salmonella ohio
+-,Salmonella paratyphi A
+-,Salmonella paratyphi B
+-,Salmonella stanley
+-,Salmonella typhi
+-,Salmonella typhimurium
+-,Salmonella virchow
+-,Serratia ficaria
+-,Serratia fonticola
+-,Serratia grimesii
+-,Serratia liquefaciens
+-,Serratia marcescens
+-,Serratia marcescens (ESBL)
+-,Serratia odorifera
+-,Serratia plymuthica
+-,Serratia proteamaculans
+-,Serratia rubidaea
+-,Shewanella algae
+-,Shewanella putrefaciens
+-,Sphingobacterium multivorum
+-,Sphingobacterium multivorum (MBL)
+-,Sphingobacterium parapaucimobilis
+-,Sphingobacterium spiritivorum
+-,Sphingomonas parapaucimobilis
+-,Sphingomonas paucimobilis
++,Sporosarcina contaminans
++,Staphylococcus aureus
++,Staphylococcus aureus (PVL)
++,Staphylococcus aureus ***MRSA***
++,Staphylococcus aureus ATCC 29213
++,Staphylococcus aureus ATCC 43300
++,Staphylococcus aureus***MRSA***(PVL)
++,Staphylococcus auricularis
++,Staphylococcus capitis
++,Staphylococcus capitis ssp. ureolyticus
++,Staphylococcus caprae
++,Staphylococcus carnosus
++,Staphylococcus chromogenes
++,Staphylococcus cohnii
++,Staphylococcus cohnii ssp. urealyticus
++,Staphylococcus delphini
++,Staphylococcus epidermidis
++,Staphylococcus equorum
++,Staphylococcus felis
++,Staphylococcus haemolyticus
++,Staphylococcus hominis
++,Staphylococcus hominis ssp. hominis
++,Staphylococcus intermedius
++,Staphylococcus kloosii
++,Staphylococcus lentus
++,Staphylococcus lugdunensis
++,Staphylococcus pasteuri
++,Staphylococcus pettenkoferi
++,Staphylococcus piscifermentans
++,Staphylococcus pseudointermedius
++,Staphylococcus saccharolyticus
++,Staphylococcus saprophyticus
++,Staphylococcus schleiferi
++,Staphylococcus sciuri
++,Staphylococcus simulans
++,Staphylococcus succinus
++,Staphylococcus vitulinus
++,Staphylococcus warneri
++,Staphylococcus xylosus
+-,Stenotrophomonas maltophilia
+-,Stenotrophomonas rhizophila
++,Streptococcus agalactiae
++,Streptococcus anginosus
++,Streptococcus gallolyticus
++,Streptococcus gallolyticus ssp. gallolyticus
++,Streptococcus gallolyticus ssp. pasteurianus
++,Streptococcus mitis
++,Streptococcus mitis-Gruppe
++,Streptococcus pyogenes
++,Streptococcus salivarius
++,Streptococcus suis
++,Streptococcus vestibularis
++,Streptomyces albidoflavus
++,Streptomyces costaricanus
++,Streptomyces thermoviolaceus
++,Vagococcus fluvialis
+-,Vibrio alginolyticus
+-,Vibrio vulnificus
+-,Yersinia enterocolitica
+-,Yokenella regensburgei
